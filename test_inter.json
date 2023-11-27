@@ -1,7 +1,7 @@
 [
  {
   "location": "清晖园",
-  "type ": "Tourism",
+  "type": "Tourism",
   "city": "佛山",
   "district": "顺德区",
   "quantity": 4,
@@ -12,7 +12,7 @@
  },
  {
   "location": "佛山科学技术学院",
-  "type ": "University",
+  "type": "University",
   "city": "佛山",
   "district": "顺德区",
   "quantity": 6,
@@ -23,7 +23,7 @@
  },
  {
   "location": "德胜学校",
-  "type ": "Middle School",
+  "type": "Middle School",
   "city": "佛山",
   "district": "顺德区",
   "quantity": 3,
