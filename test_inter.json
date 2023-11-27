@@ -1,0 +1,35 @@
+[
+ {
+  "location": "清晖园",
+  "type ": "Tourism",
+  "city": "佛山",
+  "district": "顺德区",
+  "quantity": 4,
+  "number": 1.6094379124341,
+  "dis": 0.473,
+  "lati": 22.8358356257099,
+  "longti": 113.255052995938
+ },
+ {
+  "location": "佛山科学技术学院",
+  "type ": "University",
+  "city": "佛山",
+  "district": "顺德区",
+  "quantity": 6,
+  "number": 1.94591014905531,
+  "dis": 1.2,
+  "lati": 22.8639090592958,
+  "longti": 113.265355130241
+ },
+ {
+  "location": "德胜学校",
+  "type ": "Middle School",
+  "city": "佛山",
+  "district": "顺德区",
+  "quantity": 3,
+  "number": 1.38629436111989,
+  "dis": 3,
+  "lati": 22.7938415997246,
+  "longti": 113.292817005175
+ }
+]
