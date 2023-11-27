@@ -48,8 +48,8 @@
   "type ": "Shopping Mall",
   "city": "深圳",
   "district": "宝安区",
-  "quantity": "NA",
-  "number": "NA",
+  "quantity": 0,
+  "number": 0,
   "dis": 1.7,
   "lati": 22.7621137521209,
   "longti": 113.84978878725
@@ -81,8 +81,8 @@
   "type ": "Shopping Mall",
   "city": "深圳",
   "district": "南山区",
-  "quantity": "NA",
-  "number": "NA",
+  "quantity": 0,
+  "number": 0,
   "dis": 0.109,
   "lati": 22.549829458597,
   "longti": 113.974446334926
@@ -91,7 +91,7 @@
   "location": "民 盈 · 国 贸 城",
   "type ": "Shopping Mall",
   "city": "东莞",
-  "district": "东城区",
+  "district": "东莞市",
   "quantity": 28,
   "number": 3.36729582998647,
   "dis": 0.435,
@@ -202,8 +202,8 @@
   "type ": "University",
   "city": "广州",
   "district": "天河区",
-  "quantity": "NA",
-  "number": "NA",
+  "quantity": 0,
+  "number": 0,
   "dis": 1,
   "lati": 23.1512891888716,
   "longti": 113.331655711033
@@ -213,8 +213,8 @@
   "type ": "University",
   "city": "广州",
   "district": "天河区",
-  "quantity": "NA",
-  "number": "NA",
+  "quantity": 0,
+  "number": 0,
   "dis": 0.767,
   "lati": 23.1531620739281,
   "longti": 113.344894858777
@@ -235,8 +235,8 @@
   "type ": "Middle School",
   "city": "广州",
   "district": "越秀区",
-  "quantity": "NA",
-  "number": "NA",
+  "quantity": 0,
+  "number": 0,
   "dis": 0.766,
   "lati": 23.1256538118635,
   "longti": 113.278352980043
@@ -246,17 +246,17 @@
   "type ": "University",
   "city": "广州",
   "district": "天河区",
-  "quantity": "NA",
-  "number": "NA",
+  "quantity": 0,
+  "number": 0,
   "dis": 0.488,
   "lati": 23.1524826931122,
   "longti": 113.307428578529
  },
  {
-  "location": "东莞Middle School",
+  "location": "东莞中学",
   "type ": "Middle School",
   "city": "东莞",
-  "district": "莞城区",
+  "district": "东莞市",
   "quantity": 35,
   "number": 3.58351893845611,
   "dis": 2,
@@ -286,7 +286,7 @@
   "longti": 113.292817005175
  },
  {
-  "location": "深圳Middle School",
+  "location": "深圳中学",
   "type ": "Middle School",
   "city": "深圳",
   "district": "罗湖区",
@@ -312,8 +312,10 @@
   "type ": "University",
   "city": "深圳",
   "district": "南山区",
-  "quantity": "NA",
-  "number": "NA",
-  "dis": 0.86
+  "quantity": 0,
+  "number": 0,
+  "dis": 0.86,
+  "lati": 22.5333473628821,
+  "longti": 113.932845182437
  }
 ]
