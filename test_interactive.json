@@ -1,0 +1,24 @@
+[
+ {
+  "location": "壹 方 城",
+  "type ": "Shopping Mall",
+  "city": "深圳",
+  "district": "宝安区",
+  "quantity": 17,
+  "number": 2.89037175789616,
+  "dis": 0.274,
+  "lati": 22.5525944808101,
+  "longti": 113.887779655449
+ },
+ {
+  "location": "欢 乐 谷",
+  "type ": "Shopping Mall",
+  "city": "深圳",
+  "district": "南山区",
+  "quantity": 10,
+  "number": 2.39789527279837,
+  "dis": 0.814,
+  "lati": 22.5732705337176,
+  "longti": 113.881155950483
+ }
+]
