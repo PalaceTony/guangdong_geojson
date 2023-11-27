@@ -1,7 +1,7 @@
 [
  {
   "location": "太古汇",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "广州",
   "district": "天河区",
   "quantity": 3,
@@ -12,7 +12,7 @@
  },
  {
   "location": "置地广场",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "广州",
   "district": "海珠区",
   "quantity": 1,
@@ -23,7 +23,7 @@
  },
  {
   "location": "壹 方 城",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "深圳",
   "district": "宝安区",
   "quantity": 17,
@@ -34,7 +34,7 @@
  },
  {
   "location": "欢 乐 谷",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "深圳",
   "district": "南山区",
   "quantity": 10,
@@ -45,7 +45,7 @@
  },
  {
   "location": "松 岗 天 虹",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "深圳",
   "district": "宝安区",
   "quantity": 0,
@@ -56,7 +56,7 @@
  },
  {
   "location": "海 雅 缤 纷 城",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "深圳",
   "district": "宝安区",
   "quantity": 18,
@@ -67,7 +67,7 @@
  },
  {
   "location": "星 河 WORLD·COCO Park",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "深圳",
   "district": "福田区",
   "quantity": 7,
@@ -78,7 +78,7 @@
  },
  {
   "location": "益 田 假 日 广 场",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "深圳",
   "district": "南山区",
   "quantity": 0,
@@ -89,7 +89,7 @@
  },
  {
   "location": "民 盈 · 国 贸 城",
-  "type ": "Shopping Mall",
+  "type": "Shopping Mall",
   "city": "东莞",
   "district": "东莞市",
   "quantity": 28,
@@ -100,7 +100,7 @@
  },
  {
   "location": "清晖园",
-  "type ": "Tourism",
+  "type": "Tourism",
   "city": "佛山",
   "district": "顺德区",
   "quantity": 4,
@@ -111,7 +111,7 @@
  },
  {
   "location": "广东金融学院",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 17,
@@ -122,7 +122,7 @@
  },
  {
   "location": "中山大学（东校区）",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "番禺区",
   "quantity": 9,
@@ -133,7 +133,7 @@
  },
  {
   "location": "广东药科大学",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "番禺区",
   "quantity": 5,
@@ -144,7 +144,7 @@
  },
  {
   "location": "广东科学技术职业学院",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 23,
@@ -155,7 +155,7 @@
  },
  {
   "location": "广东财经大学",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "海珠区",
   "quantity": 7,
@@ -166,7 +166,7 @@
  },
  {
   "location": "广东外语外贸大学（北校区）",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "白云区",
   "quantity": 5,
@@ -177,7 +177,7 @@
  },
  {
   "location": "华南师范大学（石牌校区）",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 3,
@@ -188,7 +188,7 @@
  },
  {
   "location": "华南农业大学",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 6,
@@ -199,7 +199,7 @@
  },
  {
   "location": "暨南大学",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 0,
@@ -210,7 +210,7 @@
  },
  {
   "location": "华南理工大学",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 0,
@@ -221,7 +221,7 @@
  },
  {
   "location": "广东工业大学",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "越秀区",
   "quantity": 6,
@@ -232,7 +232,7 @@
  },
  {
   "location": "广东实验Middle School",
-  "type ": "Middle School",
+  "type": "Middle School",
   "city": "广州",
   "district": "越秀区",
   "quantity": 0,
@@ -243,7 +243,7 @@
  },
  {
   "location": "星海音乐学院",
-  "type ": "University",
+  "type": "University",
   "city": "广州",
   "district": "天河区",
   "quantity": 0,
@@ -254,7 +254,7 @@
  },
  {
   "location": "东莞中学",
-  "type ": "Middle School",
+  "type": "Middle School",
   "city": "东莞",
   "district": "东莞市",
   "quantity": 35,
@@ -265,7 +265,7 @@
  },
  {
   "location": "佛山科学技术学院",
-  "type ": "University",
+  "type": "University",
   "city": "佛山",
   "district": "顺德区",
   "quantity": 6,
@@ -276,7 +276,7 @@
  },
  {
   "location": "德胜学校",
-  "type ": "Middle School",
+  "type": "Middle School",
   "city": "佛山",
   "district": "顺德区",
   "quantity": 3,
@@ -287,7 +287,7 @@
  },
  {
   "location": "深圳中学",
-  "type ": "Middle School",
+  "type": "Middle School",
   "city": "深圳",
   "district": "罗湖区",
   "quantity": 6,
@@ -298,7 +298,7 @@
  },
  {
   "location": "深圳技术大学",
-  "type ": "University",
+  "type": "University",
   "city": "深圳",
   "district": "坪山区",
   "quantity": 5,
@@ -309,7 +309,7 @@
  },
  {
   "location": "深圳大学",
-  "type ": "University",
+  "type": "University",
   "city": "深圳",
   "district": "南山区",
   "quantity": 0,
